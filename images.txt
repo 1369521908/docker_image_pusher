@@ -6,3 +6,4 @@ bitnami/nginx:1.26
 tzfun/etcd-workbench:1.1.3
 artilleryio/artillery:2.0.15
 bitnami/mariadb:11.3.2
+bitnami/elasticsearch:8
