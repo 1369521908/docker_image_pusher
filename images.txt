@@ -15,4 +15,4 @@ bitnami/mysqld-exporter:0.15.1-debian-12-r24
 
 bitnami/elasticsearch:7.17.22
 bitnami/kibana:7.17.22
-docker.elastic.co/beats/filebeat:8
+docker.elastic.co/beats/filebeat:8.14.1
