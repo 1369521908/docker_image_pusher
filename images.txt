@@ -21,3 +21,5 @@ bitnami/kibana:7.17.22
 bitnami/kibana:8.14.1
 docker.elastic.co/beats/filebeat:7.17.22
 docker.elastic.co/beats/filebeat:8.14.1
+
+bitnami/minio:2024
