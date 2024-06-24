@@ -23,3 +23,10 @@ docker.elastic.co/beats/filebeat:7.17.22
 docker.elastic.co/beats/filebeat:8.14.1
 
 bitnami/minio:2024
+
+quay.io/jetstack/cert-manager-cainjector:v1.15.0
+quay.io/jetstack/cert-manager-controller:v1.15.0
+quay.io/jetstack/cert-manager-webhook:v1.15.0
+
+
+
