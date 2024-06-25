@@ -28,5 +28,8 @@ quay.io/jetstack/cert-manager-cainjector:v1.15.0
 quay.io/jetstack/cert-manager-controller:v1.15.0
 quay.io/jetstack/cert-manager-webhook:v1.15.0
 
+siutin/stable-diffusion-webui-docker
+siutin/stable-diffusion-webui-docker:latest-cpu
+siutin/stable-diffusion-webui-docker:latest-gpu
 
 
