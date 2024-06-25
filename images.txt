@@ -1,13 +1,13 @@
-docker.io/library/golang
-bitnami/java:1.8
-bitnami/etcd:3.5
-bitnami/kafka:3.7
-bitnami/nginx:1.26
+bitnami/golang:1.22.4
+bitnami/java:1.8.412-9
+bitnami/etcd:3.5.14
+bitnami/kafka:3.7.0
+bitnami/nginx:1.27.0
 tzfun/etcd-workbench:1.1.3
 artilleryio/artillery:2.0.15
-bitnami/mariadb:11.3.2
-bitnami/elasticsearch:8
-bitnami/redis:7.0
+bitnami/mariadb:11.2.4
+bitnami/elasticsearch:8.14.1
+bitnami/redis:7.0.15
 
 bitnami/mysql:8.4.0-debian-12-r3
 bitnami/os-shell:12-debian-12-r22
@@ -22,14 +22,14 @@ bitnami/kibana:8.14.1
 docker.elastic.co/beats/filebeat:7.17.22
 docker.elastic.co/beats/filebeat:8.14.1
 
-bitnami/minio:2024
+bitnami/minio:2024.6.22
+
 
 quay.io/jetstack/cert-manager-cainjector:v1.15.0
 quay.io/jetstack/cert-manager-controller:v1.15.0
 quay.io/jetstack/cert-manager-webhook:v1.15.0
 
-siutin/stable-diffusion-webui-docker
-siutin/stable-diffusion-webui-docker:latest-cpu
-siutin/stable-diffusion-webui-docker:latest-gpu
+siutin/stable-diffusion-webui-docker:cuda-v1.9.4-2024-06-12
+siutin/stable-diffusion-webui-docker:cpu-v1.9.4-2024-06-12
 
 
