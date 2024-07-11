@@ -1,1 +1,1 @@
-bitnami/python:3.12
+tiangolo/uvicorn-gunicorn:python3.11
