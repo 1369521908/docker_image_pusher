@@ -1,1 +1,2 @@
-tiangolo/uvicorn-gunicorn:python3.11
+mysql:8.0.19
+redis:5.0
