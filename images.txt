@@ -1,2 +1,1 @@
-mysql:8.0.19
-redis:5.0
+nginx:1.27.0
