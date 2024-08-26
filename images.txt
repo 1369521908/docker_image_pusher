@@ -1,1 +1,1 @@
-eachan10/x-anylabeling:latest
+emqx:5.7.2
