@@ -1,1 +1,1 @@
-rtsp/rtsp
+docker pull alexagency/centos7-jdk-x86
