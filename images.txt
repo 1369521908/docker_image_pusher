@@ -1,1 +1,1 @@
-docker pull alexagency/centos7-jdk-x86
+balenalib/stem-x86-32-openjdk:8--stretch
