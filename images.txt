@@ -1,1 +1,1 @@
-balenalib/stem-x86-32-openjdk:8--stretch
+bitnami/mongodb:7.0
