@@ -1,1 +1,1 @@
-bitnami/mongodb:7.0
+islayer/qt5_msvc2017:v1.1
