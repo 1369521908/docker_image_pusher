@@ -1,1 +1,1 @@
-steeve/cross-compiler:base
+artilleryio/artillery:2.0.20
