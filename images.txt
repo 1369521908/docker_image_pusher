@@ -1,1 +1,1 @@
-bitnami/grafana:11
+bitnami/prometheus
