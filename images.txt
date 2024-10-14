@@ -1,1 +1,1 @@
-bitnami/node-exporter
+bitnami/milvus:2
