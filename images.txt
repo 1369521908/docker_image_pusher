@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor
+emqx:5.8.0
