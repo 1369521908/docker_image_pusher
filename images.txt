@@ -1,1 +1,1 @@
-milvusdb/milvus:1.1.1-cpu-d061621-330cc6
+bitnami/jmx-exporter:1
