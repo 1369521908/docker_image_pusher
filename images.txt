@@ -1,1 +1,1 @@
-ubuntu:focal
+hectorm/xubuntu:latest-amd64
