@@ -1,1 +1,1 @@
-madduci/docker-wine-msvc:16.11-2019
+ubuntu:focal
