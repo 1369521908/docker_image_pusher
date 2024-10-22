@@ -1,1 +1,1 @@
-hectorm/xubuntu:latest-amd64
+alpine:3.20.3
