@@ -1,1 +1,1 @@
-slitazcn/slitaz-5.0-base
+mlllab/genisoimage:latest
