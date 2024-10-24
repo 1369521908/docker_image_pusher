@@ -1,1 +1,1 @@
-mlllab/genisoimage:latest
+ golang:bullseye
