@@ -1,1 +1,1 @@
- golang:bullseye
+ golang:bookworm
