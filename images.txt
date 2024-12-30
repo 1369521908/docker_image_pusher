@@ -1,1 +1,1 @@
-golang:1.20-buster
+balenalib/amd64-ubuntu-golang:1.20-focal
