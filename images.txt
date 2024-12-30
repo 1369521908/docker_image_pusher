@@ -1,1 +1,1 @@
-loicsharma/baget:latest
+gocv/opencv:4.5.5
