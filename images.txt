@@ -1,1 +1,1 @@
-mcr.microsoft.com/dotnet/sdk:9.0-noble
+mcr.microsoft.com/dotnet/sdk:9.0-noble-arm64v8
