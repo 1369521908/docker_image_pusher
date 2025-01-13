@@ -1,1 +1,2 @@
-gocv/opencv:4.10.0-ubuntu-20.04
+mcr.microsoft.com/dotnet/sdk:9.0-bookworm-slim-amd64
+mcr.microsoft.com/dotnet/runtime-deps:9.0
