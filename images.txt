@@ -1,2 +1,2 @@
-mcr.microsoft.com/dotnet/sdk:9.0-noble-arm64v8
-mcr.microsoft.com/dotnet/runtime-deps:9.0.0-noble-arm64v8
+mcr.microsoft.com/dotnet/sdk:8.0
+mcr.microsoft.com/dotnet/runtime-deps:8.0-jammy-arm64
