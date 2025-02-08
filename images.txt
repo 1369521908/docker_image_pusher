@@ -1,1 +1,1 @@
-bitnami/minio:2025.2.3
+bitnami/java:17
