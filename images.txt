@@ -1,1 +1,1 @@
-bitnami/java:17
+apache/skywalking-oap-server:10.1.0-java17
