@@ -1,1 +1,1 @@
-apache/skywalking-java-agent:8.9.0-java17
+bitnami/influxdb:2.7.11
