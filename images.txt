@@ -1,1 +1,1 @@
-bitnami/influxdb:2.7.11
+bitnami/telegraf:1.33.2
