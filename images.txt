@@ -1,1 +1,1 @@
-qemux/qemu-arm:7.07
+bitnami/spark:3.5.5
