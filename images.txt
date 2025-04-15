@@ -1,1 +1,1 @@
-espressif/idf-rust-examples:latest
+filebrowser/filebrowser:v2-s6
