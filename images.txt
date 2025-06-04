@@ -1,1 +1,1 @@
-ultralytics/ultralytics:8.3.149-arm64
+ubuntu:18.04
