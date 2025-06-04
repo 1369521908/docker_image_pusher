@@ -1,1 +1,1 @@
-qemux/qemu-arm:7.12
+ultralytics/ultralytics:8.3.149-arm64
