@@ -1,1 +1,3 @@
-bitnami/grafana:12
+bitnami/prometheus
+bitnami/cadvisor
+bitnami/node-exporter
