@@ -1,1 +1,1 @@
-nixos/nix:2.29.0
+bitnami/grafana:12
