@@ -1,3 +1,2 @@
-bitnami/prometheus
-bitnami/cadvisor
-bitnami/node-exporter
+ubuntu:18.04 --platform=arm
+ubuntu:18.04 --platform=arm64
