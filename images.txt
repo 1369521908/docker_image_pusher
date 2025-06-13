@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 ubuntu:18.04
+lamikr/rocm_sdk_builder:612_01_rdna1_rdna2
