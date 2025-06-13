@@ -1,1 +1,1 @@
-lamikr/rocm_sdk_builder:612_01_rdna1_rdna2
+ubuntu:20.04
