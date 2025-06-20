@@ -1,2 +1,1 @@
-elestio/docker-desktop-vnc
-
+gocv/opencv:4.11.0-ubuntu-20.04
