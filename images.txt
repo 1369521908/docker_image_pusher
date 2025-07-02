@@ -1,1 +1,1 @@
-gocv/opencv:4.11.0-ubuntu-20.04
+artilleryio/artillery:2.0.23
