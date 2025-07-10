@@ -1,1 +1,1 @@
-artilleryio/artillery:2.0.23
+bitnami/minio:2025
