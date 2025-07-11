@@ -1,1 +1,1 @@
-bitnami/minio:2025
+cloudlena/s3manager:latest
