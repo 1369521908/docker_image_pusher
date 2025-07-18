@@ -1,1 +1,1 @@
-cloudlena/s3manager:latest
+chrislusf/seaweedfs:3.94
