@@ -1,1 +1,1 @@
-chrislusf/seaweedfs:3.94
+machines/filestash:latest
