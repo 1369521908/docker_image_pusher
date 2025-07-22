@@ -1,1 +1,1 @@
-nocodb/nocodb
+bitnami/minio-client:2025
