@@ -1,1 +1,1 @@
-bitnami/minio-client:2025
+bitnami/mysql:5.7
