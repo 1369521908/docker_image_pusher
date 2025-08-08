@@ -1,1 +1,1 @@
-bitnami/mysql:8.0.27
+bitnami/mariadb:11.8.2
