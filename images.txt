@@ -1,2 +1,1 @@
-bitnami/mariadb:11.8
-
+openlistteam/openlist
