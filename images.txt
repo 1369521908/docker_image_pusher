@@ -1,1 +1,1 @@
- loicsharma/baget:0.4.0-preview2
+sonatype/nexus:pro-2.15.2
