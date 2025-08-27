@@ -1,1 +1,1 @@
-bitnami/postgresql:17.6.0
+ loicsharma/baget:0.4.0-preview2
