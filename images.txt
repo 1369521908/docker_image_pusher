@@ -1,1 +1,1 @@
-sonatype/nexus:pro-2.15.2
+sonatype/nexus:oss
