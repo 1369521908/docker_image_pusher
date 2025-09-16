@@ -1,1 +1,1 @@
-sonatype/nexus3:3.82.1-alpine
+bitnami/python:3.10.9
