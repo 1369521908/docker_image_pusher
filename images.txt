@@ -1,1 +1,1 @@
-atinoda/text-generation-webui:base-cpu
+--platform=linux/arm64/v8 emqx:5.8.8
