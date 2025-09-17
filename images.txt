@@ -1,1 +1,1 @@
-bitnami/python:3.9
+atinoda/text-generation-webui:base-cpu
