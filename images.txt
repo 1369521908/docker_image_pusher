@@ -1,1 +1,1 @@
-multiarch/qemu-user-static
+--platform=linux/arm64 macrosan/kylin:v10-sp3-2403
