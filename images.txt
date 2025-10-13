@@ -1,1 +1,2 @@
- harness/drone-git:latest
+woodpeckerci/woodpecker-server:next
+woodpeckerci/woodpecker-agent:next
