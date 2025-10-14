@@ -1,2 +1,2 @@
-woodpeckerci/woodpecker-server:next
-woodpeckerci/woodpecker-agent:next
+woodpeckerci/woodpecker-server:next-2907159e02
+woodpeckerci/woodpecker-agent:next-2907159e02
