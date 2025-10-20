@@ -1,2 +1,1 @@
-woodpeckerci/woodpecker-server:v3.10.0
-woodpeckerci/woodpecker-agent:v3.10.0
+openlistteam/openlist
