@@ -1,1 +1,1 @@
-openlistteam/openlist
+woodpeckerci/plugin-docker-buildx:latest
