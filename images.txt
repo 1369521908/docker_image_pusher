@@ -1,1 +1,1 @@
-bitnami/node-exporter:latest
+--platform=linux/amd64 prom/node-exporter:latest
