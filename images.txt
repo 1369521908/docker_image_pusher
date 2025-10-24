@@ -1,1 +1,1 @@
-composer/composer:2.8
+bitnami/node-exporter:latest
