@@ -1,1 +1,2 @@
-jackyin0822/musebot
+golang:1.24
+debian:stable-slim
