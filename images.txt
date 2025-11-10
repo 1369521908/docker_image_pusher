@@ -1,2 +1,1 @@
-golang:1.24
-debian:stable-slim
+artilleryio/artillery:2.0.26
