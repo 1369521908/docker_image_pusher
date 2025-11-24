@@ -1,1 +1,1 @@
-artilleryio/artillery:2.0.21
+collinwebdesigns/fastapi-dls:latest
