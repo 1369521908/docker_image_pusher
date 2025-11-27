@@ -1,1 +1,1 @@
-collinwebdesigns/fastapi-dls:latest
+debian:bookworm
