@@ -1,1 +1,1 @@
-debian:bookworm
+rustfs/rustfs
