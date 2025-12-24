@@ -1,1 +1,1 @@
-rustfs/rustfs
+golang:1.25
