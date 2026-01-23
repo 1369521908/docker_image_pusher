@@ -1,1 +1,1 @@
-mcr.microsoft.com/mssql/server:2017-latest-ubuntu
+--platform=linux/arm64/v8 ubuntu:22.04
