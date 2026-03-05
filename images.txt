@@ -1,2 +1,1 @@
-woodpeckerci/woodpecker-server:next
-woodpeckerci/woodpecker-agent:next
+gitea/gitea:latest
