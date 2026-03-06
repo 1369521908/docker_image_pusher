@@ -1,1 +1,1 @@
-woodpeckerci/plugin-docker-buildx:next
+woodpeckerci/plugin-docker-buildx:latest
