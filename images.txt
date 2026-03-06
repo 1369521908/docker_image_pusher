@@ -1,1 +1,1 @@
-woodpeckerci/plugin-git:next
+docker:latest
