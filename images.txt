@@ -1,1 +1,1 @@
-woodpeckerci/plugin-docker-buildx:latest
+moby/buildkit:buildx-stable-1
