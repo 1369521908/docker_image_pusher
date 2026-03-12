@@ -1,1 +1,1 @@
-dhi.io/harbor-portal:2.14-debian13-dev
+ docker:29-dind
