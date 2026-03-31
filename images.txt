@@ -1,1 +1,1 @@
-amazoncorretto:8-alpine3.18-jdk
+eclipse-temurin:8-jdk-ubi10-minimal
