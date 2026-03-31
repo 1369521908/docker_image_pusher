@@ -1,1 +1,1 @@
-eclipse-temurin:8-jdk-ubi10-minimal
+ibmjava:8-sdk
