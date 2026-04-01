@@ -1,1 +1,1 @@
-mcr.microsoft.com/dotnet/sdk:8.0-jammy-arm64v8
+--platform=linux/arm64 sonatype/nexus3:latest
