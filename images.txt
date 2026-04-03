@@ -1,1 +1,1 @@
---platform=linux/arm64 sonatype/nexus3:latest
+node:25
