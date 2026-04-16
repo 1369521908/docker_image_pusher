@@ -1,1 +1,2 @@
-appleboy/drone-scp
+woodpeckerci/woodpecker-server:next
+woodpeckerci/woodpecker-agent:next
