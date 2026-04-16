@@ -1,1 +1,1 @@
-amazoncorretto:17
+appleboy/drone-scp
