@@ -1,1 +1,1 @@
---platform=linux/arm64/v8  openjdk:8-jdk
+--platform=linux/arm64/v8  openjdk:8
