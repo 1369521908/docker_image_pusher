@@ -1,2 +1,1 @@
-woodpeckerci/woodpecker-server:next
-woodpeckerci/woodpecker-agent:next
+--platform=linux/arm64/v8  amazoncorretto:8-alpine3.20-jdk
