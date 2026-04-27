@@ -1,1 +1,1 @@
---platform=linux/arm64/v8  amazoncorretto:8
+revng/revng
