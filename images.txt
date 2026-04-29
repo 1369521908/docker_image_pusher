@@ -1,1 +1,1 @@
-revng/revng
+--platform=linux/arm64 easysoft/zentao:latest
