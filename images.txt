@@ -1,1 +1,1 @@
-blacktop/ghidra
+ubuntu:12.04
